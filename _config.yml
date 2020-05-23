@@ -5,7 +5,7 @@
 # Site
 title: Sean's Blog
 subtitle: ''
-description: A place fulled with magic! 歡迎來到秋葉的Blog!
+description: 歡迎來到秋葉的Blog! 一個充滿魔力的地方
 keywords: Sean's Blog, 秋葉, magic
 author: Sean
 language: zh-tw
@@ -90,6 +90,8 @@ include:
 exclude:
 ignore:
 
+
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
@@ -101,3 +103,6 @@ deploy:
   type: git
   repository: https://github.com/yuanqiuye/sean_blog.git
   branch: master
+
+aplayer:
+  meting: true
